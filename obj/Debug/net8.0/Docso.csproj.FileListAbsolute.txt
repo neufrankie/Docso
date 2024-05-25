@@ -1,0 +1,4 @@
+E:\Codegym\c# start\Docso\obj\Debug\net8.0\Docso.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codegym\c# start\Docso\obj\Debug\net8.0\Docso.AssemblyInfoInputs.cache
+E:\Codegym\c# start\Docso\obj\Debug\net8.0\Docso.AssemblyInfo.cs
+E:\Codegym\c# start\Docso\obj\Debug\net8.0\Docso.csproj.CoreCompileInputs.cache
